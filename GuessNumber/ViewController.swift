@@ -47,6 +47,7 @@ class ViewController: UIViewController {
 //Logic of the game, good practice to use extention
 
 private extension ViewController{
+    
     enum Comparison {
         case Smaller
         case Greater
